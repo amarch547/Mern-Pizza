@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mern-Pizza/static/css/main.fb2c69e5.css",
+    "main.js": "/Mern-Pizza/static/js/main.85ba5c00.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/Mern-Pizza/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/Mern-Pizza/index.html",
+    "main.fb2c69e5.css.map": "/Mern-Pizza/static/css/main.fb2c69e5.css.map",
+    "main.85ba5c00.js.map": "/Mern-Pizza/static/js/main.85ba5c00.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/Mern-Pizza/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb2c69e5.css",
+    "static/js/main.85ba5c00.js"
+  ]
+}
